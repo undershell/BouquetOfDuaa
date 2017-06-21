@@ -14,7 +14,7 @@ Trial version for non-Arabic speakers
 
 <p align="center">
 <b>DEMO : </b>
-[<a target="_blank" href="http://htmlpreview.github.io/?https://github.com/undershell/BouquetOfDuaa/duaa/blob/master/index.html">Demo</a>]
+[<a target="_blank" href="http://htmlpreview.github.io/?https://github.com/undershell/BouquetOfDuaa/blob/master/duaa/index.html">Demo</a>]
 </p>
 
 ================== 
