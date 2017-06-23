@@ -13,13 +13,10 @@ Trial version for non-Arabic speakers
 ==================
 
 <p align="center">
-<b>DEMO : </b>
+<b>Preview : </b>
 [<a target="_blank" href="http://htmlpreview.github.io/?https://github.com/undershell/BouquetOfDuaa/blob/master/duaa/index.html">Demo</a>]
-</p>
-
-<p align="center">
-<b>Website : </b>
-[<a target="_blank" href="islamy.is-great.org/duaa/">Demo</a>]
+ | 
+[<a target="_blank" href="islamy.is-great.org/duaa/">Website</a>]
 </p>
 
 ================== 
