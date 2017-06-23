@@ -16,7 +16,7 @@ Trial version for non-Arabic speakers
 <b>Preview : </b>
 [<a target="_blank" href="http://htmlpreview.github.io/?https://github.com/undershell/BouquetOfDuaa/blob/master/duaa/index.html">Demo</a>]
  | 
-[<a target="_blank" href="islamy.is-great.org/duaa/">Website</a>]
+[<a target="_blank" href="http://islamy.is-great.org/duaa/">Website</a>]
 </p>
 
 ================== 
